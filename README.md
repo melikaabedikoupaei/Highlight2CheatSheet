@@ -48,7 +48,7 @@ Ensure you have all the dependencies installed:
 pip install -r requirements.txt
 ```
 
-```
+
 
 ### 3. **Get Your Groq API Key**
 
