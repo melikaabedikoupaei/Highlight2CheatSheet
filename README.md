@@ -7,12 +7,12 @@ This application allows users to upload PDF documents, extract highlights, and g
 The application leverages Groq’s LLM API for summarization and uses Streamlit to provide an interactive user interface.
 
 ---
-
-### **Technologies Used**
-
 ### **Technologies Used**
 
 ![Streamlit](./pic/Streamlit.png) ![Groq](./pic/groq.png) ![LangGraph](./pic/langgraph.png)
+- **Streamlit**: For building the interactive web interface.
+- **Groq**: Provides the API for advanced language models (LLM) used for summarization.
+- **LangGraph**: Used to handle highlight extraction and summarization with Groq LLM.
 
 ### **LangGraph Structure**
 
