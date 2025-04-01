@@ -125,7 +125,7 @@ def summarize_highlights(state: State) -> State:
             verbose=False
         )
         
-        summary = summary_chain.run(documents)
+        summary = summary_chain.invoke(documents)
         summaries.append(summary)
 
     # Combine all batch summaries
