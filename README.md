@@ -11,8 +11,8 @@ The application leverages Groq’s LLM API for summarization and uses Streamlit 
 ### **Technologies Used**
 
 - ![Streamlit](./pic/Streamlit.png) **Streamlit**: For building the interactive web interface.
-- ![Groq] **Groq**: Provides the API for advanced language models (LLM) used for summarization.
-- ![LangGraph] **LangGraph**: Used to handle highlight extraction and summarization with Groq LLM.
+- ![Groq](./pic/groq.png) **Groq**: Provides the API for advanced language models (LLM) used for summarization.
+- ![LangGraph](./pic/langgraph.png) **LangGraph**: Used to handle highlight extraction and summarization with Groq LLM.
 
 ### **LangGraph Structure**
 
