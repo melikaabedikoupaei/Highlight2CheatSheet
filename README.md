@@ -10,9 +10,9 @@ The application leverages Groq’s LLM API for summarization and uses Streamlit 
 
 ### **Technologies Used**
 
-<img src="./pic/Streamlit.png" width="50" height="50" style="display: inline-block;"> 
-<img src="./pic/groq.png" width="50" height="50" style="display: inline-block;"> 
-<img src="./pic/langgraph.png" width="50" height="50" style="display: inline-block;">
+<img src="./pic/Streamlit.png" width="100" height="100" style="display: inline-block;"> 
+<img src="./pic/groq.png" width="100" height="100" style="display: inline-block;"> 
+<img src="./pic/langgraph.png" width="100" height="100" style="display: inline-block;">
 ### **LangGraph Structure**
 
 Here’s a visual representation of the LangGraph workflow used for processing and summarizing the highlights:
